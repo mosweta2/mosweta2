@@ -5,11 +5,8 @@
 <h1 align="center">Hi 👋, I'm Deogracious</h1>
 <h3 align="center">A passionate software engineer from Kenya</h3>
 
-- 🌱 I’m currently learning **next.js, flask, typescript**
-
-- 💬 Ask me about **react html css javascript python**
-
-- 📫 How to reach me **deograciousmoriasi10@gmail.com**
+- I recently consolidated my github account to a new and latest one. You can check it out by following the link below.
+- https://github.com/mosweta
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,10 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosweta2&show_icons=true&locale=en" alt="mosweta" /></p>
 
 
-### 📂 Featured Projects
-*Recruiters: Check out these pinned repositories for full code architecture!*
 
-1. **Bizika** - A full-stack react application learning management system. Built with React, Firebase, and Tailwind.
-
----
 
